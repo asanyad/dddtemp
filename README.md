@@ -1,2 +1,1 @@
 # dddtemp
-temporary images
